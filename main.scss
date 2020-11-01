@@ -1,0 +1,6 @@
+$theme-colors: ( "primary": #521751, "danger": #f01f14);
+@import "node_modules/bootstrap/scss/bootstrap";
+.main-form {
+    width: 500px;
+    margin: auto;
+}
